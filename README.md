@@ -24,23 +24,24 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- . I learned how to clone a repository, make commits, and push my changes to GitHub.
 
 **I struggled with:** (repeat as needed)
-- .
+- . I struggled with cloning the repository at first because I was signed into the wrong account.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- . I do not need any additional help right now.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
+
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- . I used the following GitHub and the course instructions.
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- . I received no following help.
 
 ---
 ## Copyrights and License
